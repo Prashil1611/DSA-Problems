@@ -39,6 +39,6 @@ class Solution {
 
         if(Math.abs(l_height - r_height) > 1) ans.res = false;
 
-        return 1 + Math.max(height(root.left, ans), height(root.right, ans));
+        return 1 + Math.max(l_height, r_height);
     }
 }
