@@ -34,4 +34,16 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prashil1611/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Prashil1611/DSA-Problems/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Prashil1611/DSA-Problems/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Prashil1611/DSA-Problems/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
