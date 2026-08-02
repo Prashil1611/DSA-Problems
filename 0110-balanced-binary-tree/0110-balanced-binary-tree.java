@@ -30,7 +30,7 @@ class Solution {
 
     private int height(TreeNode root, Answer ans) {
 
-        if(!ans.res) return 0;   // return something not a problem
+        //if(!ans.res) return 0;   // return something not a problem
 
         if(root == null) return -1;
 
@@ -38,6 +38,7 @@ class Solution {
         int r_height = height(root.right, ans);
 
         if(Math.abs(l_height - r_height) > 1) ans.res = false;
+        if(!ans.res) return 0;
 
         return 1 + Math.max(height(root.left, ans), height(root.right, ans));
     }
