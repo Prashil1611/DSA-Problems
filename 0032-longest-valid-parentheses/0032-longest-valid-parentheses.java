@@ -26,33 +26,4 @@ class Solution {
         return maxCount;
     }
 
-//     class Solution {
-//     public int longestValidParentheses(String s) {
-
-//         Stack<Integer> stack = new Stack<>();
-//         stack.push(-1); // Base index for calculating length
-
-//         int maxLength = 0;
-
-//         for (int i = 0; i < s.length(); i++) {
-
-//             if (s.charAt(i) == '(') {
-//                 stack.push(i);
-//             } else {
-
-//                 stack.pop();
-
-//                 // No matching '('
-//                 if (stack.isEmpty()) {
-//                     stack.push(i); // Current ')' becomes the new base
-//                 } else {
-//                     // Valid substring length
-//                     maxLength = Math.max(maxLength, i - stack.peek());
-//                 }
-//             }
-//         }
-
-//         return maxLength;
-//     }
-// }
 }
