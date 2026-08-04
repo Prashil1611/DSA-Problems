@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Prashil1611/DSA-Problems/tree/master/0110-balanced-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Prashil1611/DSA-Problems/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Prashil1611/DSA-Problems/tree/master/0110-balanced-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Prashil1611/DSA-Problems/tree/master/0450-delete-node-in-a-bst) |
 ## String
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Prashil1611/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Prashil1611/DSA-Problems/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
