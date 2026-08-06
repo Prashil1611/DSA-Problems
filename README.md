@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Prashil1611/DSA-Problems/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Prashil1611/DSA-Problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Prashil1611/DSA-Problems/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/0047-permutations-ii) |
 ## Binary Search
 |  |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prashil1611/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Prashil1611/DSA-Problems/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
