@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prashil1611/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prashil1611/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Prashil1611/DSA-Problems/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Prashil1611/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Prashil1611/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Prashil1611/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Prashil1611/DSA-Problems/tree/master/0904-fruit-into-baskets) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0018-4sum](https://github.com/Prashil1611/DSA-Problems/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/0047-permutations-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Prashil1611/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prashil1611/DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Prashil1611/DSA-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prashil1611/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0347-top-k-frequent-elements](https://github.com/Prashil1611/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prashil1611/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Prashil1611/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Prashil1611/DSA-Problems/tree/master/0904-fruit-into-baskets) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Prashil1611/DSA-Problems/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Prashil1611/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -181,4 +185,20 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Prashil1611/DSA-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prashil1611/DSA-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Prashil1611/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Prashil1611/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Prashil1611/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Prashil1611/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
