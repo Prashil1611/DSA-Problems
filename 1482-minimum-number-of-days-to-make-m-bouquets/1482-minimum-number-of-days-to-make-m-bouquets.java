@@ -49,8 +49,10 @@ class Solution {
                 flower = k;
             }
 
+            if(curr >= m) return true;
+
         }
 
-        return curr >= m;
+        return false;
     }
 }
