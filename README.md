@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/Prashil1611/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Prashil1611/DSA-Problems/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/Prashil1611/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Prashil1611/DSA-Problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/0090-subsets-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Prashil1611/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/Prashil1611/DSA-Problems/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Prashil1611/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Prashil1611/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
