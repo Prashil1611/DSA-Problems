@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prashil1611/DSA-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prashil1611/DSA-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prashil1611/DSA-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prashil1611/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Prashil1611/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Prashil1611/DSA-Problems/tree/master/0904-fruit-into-baskets) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prashil1611/DSA-Problems/tree/master/2965-find-missing-and-repeated-values) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prashil1611/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prashil1611/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prashil1611/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -246,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Prashil1611/DSA-Problems/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prashil1611/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
