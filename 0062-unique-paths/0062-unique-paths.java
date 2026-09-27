@@ -39,7 +39,9 @@ class Solution {
             ans += helper(i, j+1, m, n, dp);
         }
 
-        return dp[i][j] = ans;
+        dp[i][j] = ans;
 
+        return dp[i][j];
+        
     }
 }
