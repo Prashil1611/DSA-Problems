@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/Prashil1611/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Prashil1611/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prashil1611/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prashil1611/DSA-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prashil1611/DSA-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prashil1611/DSA-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Dynamic Programming
@@ -122,11 +123,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Prashil1611/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Prashil1611/DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prashil1611/DSA-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Prashil1611/DSA-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Prashil1611/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prashil1611/DSA-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Binary Search Tree
 |  |
 | ------- |
