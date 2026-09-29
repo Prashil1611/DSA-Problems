@@ -22,15 +22,13 @@ class Solution {
         int ans = 0;
 
         if(s1.charAt(i) == s2.charAt(j)){
-            ans = 1 + helper(s1, s2, i+1, j+1, dp);
-            dp[i][j] = ans;
+            dp[i][j] = 1 + helper(s1, s2, i+1, j+1, dp);
         }
         else{
-            ans = Math.max(helper(s1, s2, i+1, j, dp), helper(s1, s2, i, j+1, dp));
-            dp[i][j] = ans;
+            dp[i][j] = Math.max(helper(s1, s2, i+1, j, dp), helper(s1, s2, i, j+1, dp));
         }
 
-        return ans;
+        return dp[i][j];
 
     }
 }
