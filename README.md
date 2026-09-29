@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/Prashil1611/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Prashil1611/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prashil1611/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [1143-longest-common-subsequence](https://github.com/Prashil1611/DSA-Problems/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prashil1611/DSA-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prashil1611/DSA-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prashil1611/DSA-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/Prashil1611/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prashil1611/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Prashil1611/DSA-Problems/tree/master/0198-house-robber) |
+| [1143-longest-common-subsequence](https://github.com/Prashil1611/DSA-Problems/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -270,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Prashil1611/DSA-Problems/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Prashil1611/DSA-Problems/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
