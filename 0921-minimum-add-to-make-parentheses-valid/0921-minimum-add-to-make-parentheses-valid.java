@@ -1,10 +1,10 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        
+
         int open = 0;
         int ans = 0;
 
-        for(char c : s.toCharArray()){
+        for (char c : s.toCharArray()){
 
             if(c == '('){
                 open++;
@@ -17,10 +17,9 @@ class Solution {
                     ans++;
                 }
             }
-
         }
 
-        return open + ans;
-
+        return ans + open;
+        
     }
 }
