@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0052-n-queens-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Prashil1611/DSA-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Prashil1611/DSA-Problems/tree/master/0301-remove-invalid-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/Prashil1611/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Prashil1611/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Prashil1611/DSA-Problems/tree/master/0076-minimum-window-substring) |
+| [0301-remove-invalid-parentheses](https://github.com/Prashil1611/DSA-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prashil1611/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Prashil1611/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Prashil1611/DSA-Problems/tree/master/0856-score-of-parentheses) |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prashil1611/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Prashil1611/DSA-Problems/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
