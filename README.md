@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/Prashil1611/DSA-Problems/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prashil1611/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Prashil1611/DSA-Problems/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/Prashil1611/DSA-Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Prashil1611/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/Prashil1611/DSA-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Prashil1611/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/Prashil1611/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prashil1611/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Prashil1611/DSA-Problems/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Prashil1611/DSA-Problems/tree/master/0322-coin-change) |
 | [0678-valid-parenthesis-string](https://github.com/Prashil1611/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/Prashil1611/DSA-Problems/tree/master/1143-longest-common-subsequence) |
 ## Stack
@@ -316,8 +318,17 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Prashil1611/DSA-Problems/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/Prashil1611/DSA-Problems/tree/master/0322-coin-change) |
 ## Algorithm X
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Prashil1611/DSA-Problems/tree/master/0051-n-queens) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Prashil1611/DSA-Problems/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Prashil1611/DSA-Problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
