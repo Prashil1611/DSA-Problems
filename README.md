@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Prashil1611/DSA-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Prashil1611/DSA-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prashil1611/DSA-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Prashil1611/DSA-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prashil1611/DSA-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prashil1611/DSA-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prashil1611/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/0047-permutations-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Prashil1611/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prashil1611/DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Prashil1611/DSA-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/Prashil1611/DSA-Problems/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prashil1611/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prashil1611/DSA-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Prashil1611/DSA-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Tree
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/Prashil1611/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prashil1611/DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prashil1611/DSA-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Prashil1611/DSA-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Queue
 |  |
 | ------- |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Prashil1611/DSA-Problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Prashil1611/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Prashil1611/DSA-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Queue
 |  |
 | ------- |
