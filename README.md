@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2965-find-missing-and-repeated-values](https://github.com/Prashil1611/DSA-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prashil1611/DSA-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prashil1611/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Prashil1611/DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Backtracking
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Prashil1611/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prashil1611/DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prashil1611/DSA-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Prashil1611/DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prashil1611/DSA-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prashil1611/DSA-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prashil1611/DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Prashil1611/DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Queue
 |  |
 | ------- |
