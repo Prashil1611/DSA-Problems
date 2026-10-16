@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/Prashil1611/DSA-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Prashil1611/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Prashil1611/DSA-Problems/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Prashil1611/DSA-Problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/0090-subsets-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Prashil1611/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Prashil1611/DSA-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Prashil1611/DSA-Problems/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Prashil1611/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prashil1611/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Prashil1611/DSA-Problems/tree/master/0198-house-robber) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prashil1611/DSA-Problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Monotonic Stack
 |  |
