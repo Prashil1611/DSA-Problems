@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Prashil1611/DSA-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Prashil1611/DSA-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prashil1611/DSA-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prashil1611/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prashil1611/DSA-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Prashil1611/DSA-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prashil1611/DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0450-delete-node-in-a-bst](https://github.com/Prashil1611/DSA-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Prashil1611/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Prashil1611/DSA-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prashil1611/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0450-delete-node-in-a-bst](https://github.com/Prashil1611/DSA-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Prashil1611/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Prashil1611/DSA-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prashil1611/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## String
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/Prashil1611/DSA-Problems/tree/master/0322-coin-change) |
 | [0678-valid-parenthesis-string](https://github.com/Prashil1611/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/Prashil1611/DSA-Problems/tree/master/1143-longest-common-subsequence) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prashil1611/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Stack
 |  |
 | ------- |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0450-delete-node-in-a-bst](https://github.com/Prashil1611/DSA-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Prashil1611/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Prashil1611/DSA-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prashil1611/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -240,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0062-unique-paths](https://github.com/Prashil1611/DSA-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Prashil1611/DSA-Problems/tree/master/0070-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prashil1611/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prashil1611/DSA-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prashil1611/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Prashil1611/DSA-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -299,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prashil1611/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Prashil1611/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prashil1611/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -332,10 +339,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Prashil1611/DSA-Problems/tree/master/0070-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prashil1611/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Prashil1611/DSA-Problems/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prashil1611/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -371,4 +380,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prashil1611/DSA-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prashil1611/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prashil1611/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
