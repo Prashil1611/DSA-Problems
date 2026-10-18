@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Prashil1611/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Prashil1611/DSA-Problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/0063-unique-paths-ii) |
+| [0075-sort-colors](https://github.com/Prashil1611/DSA-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Prashil1611/DSA-Problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/0090-subsets-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0018-4sum](https://github.com/Prashil1611/DSA-Problems/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/Prashil1611/DSA-Problems/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/Prashil1611/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prashil1611/DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prashil1611/DSA-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/Prashil1611/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Prashil1611/DSA-Problems/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Prashil1611/DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Prashil1611/DSA-Problems/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prashil1611/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prashil1611/DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -388,4 +391,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prashil1611/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Prashil1611/DSA-Problems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Prashil1611/DSA-Problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
