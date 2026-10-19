@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1441-build-an-array-with-stack-operations](https://github.com/Prashil1611/DSA-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prashil1611/DSA-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prashil1611/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Prashil1611/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prashil1611/DSA-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Prashil1611/DSA-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prashil1611/DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Prashil1611/DSA-Problems/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/Prashil1611/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prashil1611/DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Prashil1611/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prashil1611/DSA-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Prashil1611/DSA-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Prashil1611/DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/Prashil1611/DSA-Problems/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prashil1611/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prashil1611/DSA-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Prashil1611/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prashil1611/DSA-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Tree
 |  |
