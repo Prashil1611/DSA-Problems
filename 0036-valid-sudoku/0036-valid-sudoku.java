@@ -1,12 +1,8 @@
 class Solution {
     public boolean isValidSudoku(char[][] board) {
 
-        // 1st find the empty spaces and store its position on emptyList list
-
-        List<int[]> emptyList = new ArrayList<>();
-
         for (int i = 0; i < 9; i++){
-            
+
             for (int j = 0; j < 9; j++){
                 
                 if(board[i][j] == '.') continue;
