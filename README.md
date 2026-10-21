@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/Prashil1611/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Prashil1611/DSA-Problems/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Prashil1611/DSA-Problems/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Prashil1611/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Prashil1611/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/0047-permutations-ii) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Prashil1611/DSA-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prashil1611/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Prashil1611/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/Prashil1611/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0347-top-k-frequent-elements](https://github.com/Prashil1611/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prashil1611/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Prashil1611/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prashil1611/DSA-Problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Monotonic Stack
