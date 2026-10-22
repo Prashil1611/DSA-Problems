@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Prashil1611/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Prashil1611/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Prashil1611/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Prashil1611/DSA-Problems/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Prashil1611/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0301-remove-invalid-parentheses](https://github.com/Prashil1611/DSA-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prashil1611/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
