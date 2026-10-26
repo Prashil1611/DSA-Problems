@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prashil1611/DSA-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prashil1611/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Prashil1611/DSA-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prashil1611/DSA-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Prashil1611/DSA-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Prashil1611/DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Prashil1611/DSA-Problems/tree/master/3886-sum-of-sortable-integers) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/Prashil1611/DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prashil1611/DSA-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1254-number-of-closed-islands](https://github.com/Prashil1611/DSA-Problems/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prashil1611/DSA-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [1254-number-of-closed-islands](https://github.com/Prashil1611/DSA-Problems/tree/master/1254-number-of-closed-islands) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prashil1611/DSA-Problems/tree/master/2965-find-missing-and-repeated-values) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prashil1611/DSA-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0301-remove-invalid-parentheses](https://github.com/Prashil1611/DSA-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Prashil1611/DSA-Problems/tree/master/0322-coin-change) |
 | [1254-number-of-closed-islands](https://github.com/Prashil1611/DSA-Problems/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prashil1611/DSA-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Algorithm X
 |  |
 | ------- |
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Prashil1611/DSA-Problems/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prashil1611/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prashil1611/DSA-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
