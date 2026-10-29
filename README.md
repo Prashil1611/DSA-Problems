@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Prashil1611/DSA-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Prashil1611/DSA-Problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Prashil1611/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prashil1611/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prashil1611/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Prashil1611/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Prashil1611/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Prashil1611/DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Prashil1611/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0678-valid-parenthesis-string](https://github.com/Prashil1611/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Prashil1611/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Prashil1611/DSA-Problems/tree/master/0856-score-of-parentheses) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Prashil1611/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/Prashil1611/DSA-Problems/tree/master/0239-sliding-window-maximum) |
 ## Simulation
 |  |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prashil1611/DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Prashil1611/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Prashil1611/DSA-Problems/tree/master/0739-daily-temperatures) |
 ## Trie
 |  |
