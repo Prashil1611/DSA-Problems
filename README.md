@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prashil1611/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prashil1611/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prashil1611/DSA-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Prashil1611/DSA-Problems/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Prashil1611/DSA-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prashil1611/DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prashil1611/DSA-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Prashil1611/DSA-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prashil1611/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prashil1611/DSA-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Prashil1611/DSA-Problems/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Prashil1611/DSA-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Prashil1611/DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Prashil1611/DSA-Problems/tree/master/3886-sum-of-sortable-integers) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Prashil1611/DSA-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prashil1611/DSA-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prashil1611/DSA-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2747-count-zero-request-servers](https://github.com/Prashil1611/DSA-Problems/tree/master/2747-count-zero-request-servers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/Prashil1611/DSA-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Prashil1611/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Prashil1611/DSA-Problems/tree/master/0904-fruit-into-baskets) |
+| [2747-count-zero-request-servers](https://github.com/Prashil1611/DSA-Problems/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prashil1611/DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prashil1611/DSA-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Prashil1611/DSA-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
