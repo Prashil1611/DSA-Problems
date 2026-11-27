@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Prashil1611/DSA-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Prashil1611/DSA-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Prashil1611/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Prashil1611/DSA-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Prashil1611/DSA-Problems/tree/master/0050-powx-n) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prashil1611/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
